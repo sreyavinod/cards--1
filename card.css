@@ -1,0 +1,132 @@
+nav ul li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav ul {
+    padding-left: 45px;
+}
+
+.homepage {
+    background-image:url(image6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+
+
+}
+
+.homepage h1 {
+    text-align: center;
+    color: white;
+    padding-top: 285px;
+    font-family: sans-serif;
+    font-size: 68px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.homepage p{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+
+#about .col-4{
+    width: 400px;
+    padding-top: 75px;
+}
+
+.container-fluid {
+    padding-left: 168px;
+    padding-right: 174px;
+}
+
+.card-body {
+    background-color: rgb(242, 240, 240);
+}
+
+.card-body .btn {
+    width: 155px;
+}
+
+.card-title {
+    padding-top: 20px;
+}
+
+.card-body .buttons {
+    text-align: center;
+}
+
+.card-body .headings{
+    text-align: center;
+}
+
+#id_button {
+    text-align: right;
+}
+
+#services {
+    background-image:url(image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 325px;
+}
+
+#services #h1 {
+    text-align: center;
+    color: white;
+    padding-top: 120px;
+    font-family: sans-serif;
+    font-size: 45px;
+    text-shadow: 2px 2px 2px rgb(147, 144, 144);
+}
+
+#services #p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#services_button {
+    text-align: center;
+    margin-top: -15px;
+}
+
+#contact {
+    background-image: url(image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 550px;
+}
+
+#contact #h1 {
+    text-align: center;
+    color: white;
+    padding-top: 120px;
+    font-family: sans-serif;
+    font-size: 45px;
+    text-shadow: 2px 2px 2px rgb(147, 144, 144);
+}
+
+#table_text {
+    text-align: center;
+    background-color: rgba(255, 250, 250,0.5)
+
+}
+
+#contact input {
+    background-color: rgba(255, 250, 250,0.5);
+    margin-left: 400px;
+    width: 350px;
+}
+
+#contact textarea {
+    background-color: rgba(255, 250, 250,0.5);
+    width: 348px;
+    height: 160px;
+}
